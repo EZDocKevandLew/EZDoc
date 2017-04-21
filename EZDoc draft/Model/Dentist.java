@@ -3,7 +3,7 @@ package Model;
 import Data.ReadAndWrite; 
 
 public class Dentist extends User{
-
+//CHANGE IN TEMP
 	String bookingApp; 
 //HELLO I'VE MADE A CHANGE
 	public Dentist(){
